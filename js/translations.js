@@ -52,7 +52,7 @@ const translations = {
         form_error: "Błąd wysyłki!"
     },
     de: {
-        nav_home: "Startseite",
+        nav_home: "Home",
         nav_about: "Über Uns",
         nav_offer: "Angebot",
         nav_map: "Karte",
@@ -102,4 +102,5 @@ const translations = {
         form_success: "Erfolgreich gesendet!",
         form_error: "Sende-Fehler!"
     }
+
 };
