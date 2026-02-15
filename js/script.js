@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         btn.addEventListener('click', () => setLanguage(btn.getAttribute('data-lang')));
     });
 
-    setLanguage('pl'); // Start PL
+    setLanguage('de'); // Start DE
 
 // --- 1. GŁÓWNY SLIDER (SWIPER) ---
     const swiper = new Swiper(".myHeroSwiper", {
@@ -142,4 +142,5 @@ window.addEventListener('scroll', () => {
             link.classList.add('active');
         }
     });
+
 });
